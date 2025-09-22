@@ -59,3 +59,5 @@ Test seti üzerinde değerlendirme ve confusion matrix ile sınıf bazlı perfor
 🔹 Lisans
 
 Bu proje MIT Lisansı ile paylaşılmıştır.
+
+https://www.kaggle.com/code/cemyillmaz8/notebook04961b8042
